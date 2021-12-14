@@ -1,6 +1,2 @@
-# programmieren
+# BMI Programm 
 
-- Das 
-- ist
-- eine 
-- Liste 
